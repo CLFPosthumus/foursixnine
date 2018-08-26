@@ -6075,3 +6075,26 @@ function wp_privacy_delete_old_export_files() {
 		}
 	}
 }
+
+/*custom code*/
+function custom_login_logo() {
+    echo '<style type ="text/css">.login h1 a { display:none!important; }</style>';
+}
+
+add_action('login_head', 'custom_login_logo');
+
+
+function annointed_admin_bar_remove() {
+	global $wp_admin_bar;
+
+	/* Remove their stuff */
+	$wp_admin_bar->remove_menu('wp-logo');
+}
+add_action('wp_before_admin_bar_render', 'annointed_admin_bar_remove', 0);
+
+function remove_footer_admin () 
+{
+    echo '';
+}
+ 
+add_filter('admin_footer_text', 'remove_footer_admin');
