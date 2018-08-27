@@ -1,4 +1,82 @@
 # BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase / 
+#WriteCheckString:1535354812_99050
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+
+RewriteCond "%{DOCUMENT_ROOT}/wp-content/cache/wph/%{HTTP_HOST}%{REQUEST_URI}" -f
+RewriteRule .* "/wp-content/cache/wph/%{HTTP_HOST}%{REQUEST_URI}" [L]
+
+RewriteRule ^foursixnine/fousixninestyle /wp-content/plugins/wp-hide-security-enhancer/router/file-process.php?action=style-clean&file_path=/wp-content/themes/shopkeeper/style.css&replacement_path=/foursixnine/fousixninestyle [L,QSA]
+
+RewriteRule ^foursixnine/fousixninestyle /wp-content/themes/shopkeeper/style.css [L,QSA]
+
+RewriteRule ^foursixnine/(.+) /wp-content/themes/shopkeeper/$1 [L,QSA]
+
+RewriteRule ^dp/(.+) /wp-content/plugins/duplicate-post/$1 [L,QSA]
+RewriteRule ^em/(.+) /wp-content/plugins/envato-market/$1 [L,QSA]
+RewriteRule ^ga/(.+) /wp-content/plugins/google-analytics-dashboard-for-wp/$1 [L,QSA]
+RewriteRule ^bp/(.+) /wp-content/plugins/js_composer/$1 [L,QSA]
+RewriteRule ^oc/(.+) /wp-content/plugins/one-click-demo-import/$1 [L,QSA]
+RewriteRule ^sc/(.+) /wp-content/plugins/sendcloud-shipping/$1 [L,QSA]
+RewriteRule ^wcp/(.+) /wp-content/plugins/sisow-for-woocommerce/$1 [L,QSA]
+RewriteRule ^ure/(.+) /wp-content/plugins/user-role-editor/$1 [L,QSA]
+RewriteRule ^woo/(.+) /wp-content/plugins/woocommerce/$1 [L,QSA]
+RewriteRule ^wl/(.+) /wp-content/plugins/yith-woocommerce-wishlist/$1 [L,QSA]
+RewriteRule ^foursixnine_pi/(.+) /wp-content/plugins/$1 [L,QSA]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-content/plugins(.+) /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in.*$ [NC]
+RewriteRule ^wp-includes(.+) /index.php?wph-throw-404 [L]
+
+RewriteRule ^foursixnine_include/(.+) /wp-includes/$1 [L,QSA]
+
+RewriteRule ^uploadz/(.+) /wp-content/uploads/$1 [L,QSA]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-content/uploads/(.+) /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-cron.php /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_FILENAME} !wp-activate.php [NC]
+RewriteCond %{REQUEST_FILENAME} !wp-cron.php [NC]
+RewriteCond %{REQUEST_FILENAME} !wp-signup.php [NC]
+RewriteCond %{REQUEST_FILENAME} !wp-register.php [NC]
+RewriteCond %{REQUEST_FILENAME} !wp-comments-post.php [NC]
+RewriteCond %{REQUEST_FILENAME} !wp-login.php [NC]
+RewriteRule ^wp-([a-z-])+.php /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-activate.php /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^readme.html /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-signup.php /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^license.txt /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-register.php /index.php?wph-throw-404 [L]
+
+RewriteRule ^foursixnine_content/(.+) /wp-content/$1 [L,QSA]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in.*$ [NC]
+RewriteRule ^wp-content(.+) /index.php?wph-throw-404 [L]
+
+RewriteRule ^fsnadmin.php(.*) /wp-login.php$1 [L,QSA]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-login.php /index.php?wph-throw-404 [L]
+
+RewriteCond %{REQUEST_URI} /fsnadmin$
+RewriteRule ^(.*)$ /fsnadmin/ [R=301,L]
+RewriteRule ^fsnadmin(.*) /wp-admin$1 [L,QSA]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-admin(.+) /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^dashboard(.+) /index.php?wph-throw-404 [L]
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^admin(.+) /index.php?wph-throw-404 [L]
+</IfModule> 
 
 # END WP Hide & Security Enhancer
 
