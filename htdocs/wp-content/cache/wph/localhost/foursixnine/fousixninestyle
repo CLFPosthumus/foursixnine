@@ -16,6 +16,10 @@ body, input, textarea, button, select {
 #outer-row-cp, #columns-cp {
     padding: 0;
 }
+#columns-cp{
+    margin: 0;
+    min-width: 100%;
+}
 .main-navigation > ul > li.menu-item-has-children, .main-navigation > ul > li  {
     margin-right: 20px;
 }
@@ -62,4 +66,18 @@ body, input, textarea, button, select {
     -moz-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+}
+@media only screen and (max-width: 40.063em){
+.woocommerce-ordering select.orderby {
+    font-size: 8px !important;
+    font-weight: 0!important;
+}}
+select {
+    font-weight:0 !important;
+}
+.mobile-navigation a {
+    font-size: 10px;
+}
+#primary{
+    padding:0;
 }
