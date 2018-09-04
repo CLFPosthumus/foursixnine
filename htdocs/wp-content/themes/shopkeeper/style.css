@@ -10,3 +10,84 @@ License URI:
 Text Domain: shopkeeper
 Domain Path: /languages/
 */
+body, input, textarea, button, select {
+    font-size: 10px;
+    font-family: "Helvetica Neue",sans-serif;
+    color: #333;
+
+}
+
+.main-navigation ul li a{
+    font-size: 10px !important;
+    font-weight: 100 !important;
+    font-family: "Helvetica Neue",sans-serif;    
+    letter-spacing: 0.3em !important;    
+    text-size-adjust:  100% ;
+    text-transform: uppercase ;
+    -webkit-font-smoothing: antialiased;
+}
+
+#outer-row-cp, #columns-cp {
+    padding: 0;
+}
+
+
+.main-navigation > ul > li.menu-item-has-children, .main-navigation > ul > li  {
+    margin-right: 20px;
+}
+
+#product{
+    border-right: 1px solid #bbb;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgb(187, 187, 187);
+    border-bottom: 1px solid #bbb;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(187, 187, 187);
+
+    margin: 0;
+    min-height: 337px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+
+ 
+
+}
+
+.site-content .products li {
+    margin-bottom: 0;
+}
+
+.tob_bar_shop{
+    border-bottom: 1px solid #bbb;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(187, 187, 187);
+    margin-bottom: 0;
+    padding-left:20px;
+    padding-right:20px;
+    
+
+}
+
+.woocommerce ul.products-grid, .woocommerce-page ul.products-grid {
+    margin: 0px -10px 0px;
+    margin-top: 0px;
+    margin-right: -10px;
+    margin-bottom: 0px;
+    margin-left: -10px;
+}
+
+
+#products-grid{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}

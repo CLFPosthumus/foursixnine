@@ -87,3 +87,1049 @@
 [Sun Aug 26 21:03:43.862979 2018] [ssl:warn] [pid 18328:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Sun Aug 26 21:03:43.959985 2018] [ssl:warn] [pid 18328:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Sun Aug 26 21:03:44.038989 2018] [mpm_winnt:notice] [pid 18328:tid 304] AH00354: Child: Starting 150 worker threads.
+[Mon Aug 27 21:24:24.868704 2018] [ssl:warn] [pid 12492:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 27 21:24:24.946705 2018] [core:warn] [pid 12492:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 27 21:24:24.946705 2018] [ssl:warn] [pid 12492:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 27 21:24:25.188306 2018] [mpm_winnt:notice] [pid 12492:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Mon Aug 27 21:24:25.188306 2018] [mpm_winnt:notice] [pid 12492:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Mon Aug 27 21:24:25.188306 2018] [core:notice] [pid 12492:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Mon Aug 27 21:24:25.218306 2018] [mpm_winnt:notice] [pid 12492:tid 292] AH00418: Parent: Created child process 11172
+[Mon Aug 27 21:24:26.685426 2018] [ssl:warn] [pid 11172:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 27 21:24:26.787927 2018] [ssl:warn] [pid 11172:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 27 21:24:26.872928 2018] [mpm_winnt:notice] [pid 11172:tid 304] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 29 09:06:27.130580 2018] [mpm_winnt:notice] [pid 12492:tid 292] AH00428: Parent: child process 11172 exited with status 1073807364 -- Restarting.
+[Wed Aug 29 10:15:12.392486 2018] [ssl:warn] [pid 7276:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:15:12.577498 2018] [core:warn] [pid 7276:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 29 10:15:12.577498 2018] [ssl:warn] [pid 7276:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:15:12.783512 2018] [mpm_winnt:notice] [pid 7276:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Wed Aug 29 10:15:12.783512 2018] [mpm_winnt:notice] [pid 7276:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Wed Aug 29 10:15:12.783512 2018] [core:notice] [pid 7276:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Wed Aug 29 10:15:12.784512 2018] [mpm_winnt:notice] [pid 7276:tid 292] AH00418: Parent: Created child process 2480
+[Wed Aug 29 10:15:14.680614 2018] [ssl:warn] [pid 2480:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:15:14.821626 2018] [ssl:warn] [pid 2480:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:15:14.940634 2018] [mpm_winnt:notice] [pid 2480:tid 304] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 29 10:50:00.156445 2018] [ssl:warn] [pid 14100:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:50:00.300459 2018] [core:warn] [pid 14100:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 29 10:50:00.305459 2018] [ssl:warn] [pid 14100:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:50:00.426472 2018] [mpm_winnt:notice] [pid 14100:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Wed Aug 29 10:50:00.426472 2018] [mpm_winnt:notice] [pid 14100:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Wed Aug 29 10:50:00.426472 2018] [core:notice] [pid 14100:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Wed Aug 29 10:50:00.432472 2018] [mpm_winnt:notice] [pid 14100:tid 292] AH00418: Parent: Created child process 14884
+[Wed Aug 29 10:50:02.304659 2018] [ssl:warn] [pid 14884:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:50:02.446674 2018] [ssl:warn] [pid 14884:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 10:50:02.560685 2018] [mpm_winnt:notice] [pid 14884:tid 304] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 29 11:14:06.905114 2018] [ssl:warn] [pid 15988:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 11:14:07.033127 2018] [core:warn] [pid 15988:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 29 11:14:07.037128 2018] [ssl:warn] [pid 15988:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 11:14:07.143138 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Wed Aug 29 11:14:07.143138 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Wed Aug 29 11:14:07.143138 2018] [core:notice] [pid 15988:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Wed Aug 29 11:14:07.149139 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00418: Parent: Created child process 15520
+[Wed Aug 29 11:14:09.099334 2018] [ssl:warn] [pid 15520:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 11:14:09.242348 2018] [ssl:warn] [pid 15520:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 11:14:09.338358 2018] [mpm_winnt:notice] [pid 15520:tid 304] AH00354: Child: Starting 150 worker threads.
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:27:45.113927 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:54850] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\streams.php on line 81
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:27:45.117927 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:54850] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 8192 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\wp-hide-security-enhancer\\include\\functions.class.php on line 1359
+[Wed Aug 29 11:27:45.117927 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:54850] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[Wed Aug 29 11:27:45.145930 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:54846] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.170933 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:54844] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.198936 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:54841] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.225938 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:54839] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.251941 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:54837] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.278944 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:54835] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.303946 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:54832] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.328949 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:54830] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.354951 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:54828] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.380954 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:54826] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.406956 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:54824] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.431959 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:54822] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.456961 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:54820] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.481964 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:54818] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.508967 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:54815] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.533969 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:54813] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.557971 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:54811] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 11:27:45.580974 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:54809] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://localhost/wp-cron.php?doing_wp_cron=1535534837.3621520996093750000000
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:30:42.041618 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:54966] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 28672 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\api\\v1\\class-wc-rest-products-controller.php on line 518
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:30:42.051619 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:54966] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 11:30:42.085622 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:54962] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.111625 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:54959] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.136628 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:54957] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.168631 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:54955] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.196634 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:54953] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.224636 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:54951] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.251639 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:54949] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.276642 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:54947] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.302644 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:54945] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.327647 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:54943] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.351649 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:54940] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.379652 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:54938] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.404654 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:54936] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.430657 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:54934] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.456660 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:54932] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.481662 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:54930] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.508665 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:54928] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:30:42.532667 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:54926] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535008.7992939949035644531250
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:32:38.888302 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55015] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:32:38.890302 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55015] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\option.php on line 58
+[Wed Aug 29 11:32:38.891302 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55015] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[Wed Aug 29 11:32:38.917304 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55011] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:38.940307 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55009] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:38.963309 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55007] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:38.989312 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55005] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.014314 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55003] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.039317 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55001] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.064319 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:54999] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.091322 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:54997] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.116324 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:54995] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.154328 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:54993] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.185331 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:54991] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.209334 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:54989] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.231336 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:54987] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.255338 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:54985] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.280341 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:54983] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.305343 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:54981] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.339347 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:54979] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:32:39.364349 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:54977] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535128.8022930622100830078125
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:34:43.217733 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55062] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:34:43.220734 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55062] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\option.php on line 58
+[Wed Aug 29 11:34:43.221734 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55062] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[Wed Aug 29 11:34:43.258737 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55058] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.289740 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55056] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.317743 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55054] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.351747 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55052] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.383750 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55050] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.412753 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55048] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.441756 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:55044] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.467758 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:55042] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.490761 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:55040] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.515763 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:55038] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.541766 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:55036] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.565768 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:55034] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.592771 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:55032] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.616773 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:55030] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.648776 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:55028] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.674779 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:55026] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.702782 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:55024] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:34:43.737785 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:55022] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535248.6852800846099853515625
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:36:47.001110 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55113] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\wc-template-functions.php on line 3336
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:36:47.017112 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55113] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1
+[Wed Aug 29 11:36:47.057116 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55109] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.100120 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55107] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.133124 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55105] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.177128 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55102] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.212131 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55100] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.266137 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55098] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.303141 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:55096] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.370147 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:55094] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.417152 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:55092] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.464157 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:55090] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.552165 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:55088] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.597170 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:55086] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.647175 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:55081] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.733184 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:55079] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.792189 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:55077] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.854196 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:55075] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:47.892199 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:55073] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:36:48.045215 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:55071] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535369.5083611011505126953125
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:38:45.542963 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55175] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 28672 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\functions.php on line 3510
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:38:45.558965 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55175] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 820
+[Wed Aug 29 11:38:45.607970 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55170] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.635973 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55168] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.672976 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55166] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.703979 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55162] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.732982 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55160] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.757985 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55158] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.782987 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:55156] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.807990 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:55154] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.838993 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:55152] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.873996 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:55150] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.899999 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:55148] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.926002 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:55146] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.953004 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:55144] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:45.976007 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:55142] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:46.003009 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:55136] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:46.025012 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:55134] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:46.050014 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:55132] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:38:46.072016 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:55130] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535488.5982689857482910156250
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:43:47.388145 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55323] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 28672 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\functions.php on line 3510
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:43:47.396146 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55323] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 820
+[Wed Aug 29 11:43:47.424148 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55318] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.445151 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55316] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.467153 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55314] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.490155 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55312] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.513157 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55310] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.535160 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55308] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.558162 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:55306] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.580164 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:55304] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.603166 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:55302] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.627169 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:55300] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.650171 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:55298] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.673173 2018] [php7:warn] [pid 15520:tid 1544] [client 127.0.0.1:55295] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.694175 2018] [php7:warn] [pid 15520:tid 1568] [client 127.0.0.1:55292] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.719178 2018] [php7:warn] [pid 15520:tid 1556] [client 127.0.0.1:55290] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.741180 2018] [php7:warn] [pid 15520:tid 1532] [client 127.0.0.1:55288] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.767183 2018] [php7:warn] [pid 15520:tid 1588] [client 127.0.0.1:55286] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.788185 2018] [php7:warn] [pid 15520:tid 1540] [client 127.0.0.1:55284] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:43:47.814187 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:55282] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535535800.6034669876098632812500
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+Can't initialize heap: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:46:46.327037 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55389] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 11:46:46.329037 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55389] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\option.php on line 58
+[Wed Aug 29 11:46:46.330037 2018] [php7:error] [pid 15520:tid 1436] [client 127.0.0.1:55389] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[Wed Aug 29 11:46:46.353040 2018] [php7:warn] [pid 15520:tid 1452] [client 127.0.0.1:55385] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.375042 2018] [php7:warn] [pid 15520:tid 1460] [client 127.0.0.1:55383] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.399044 2018] [php7:warn] [pid 15520:tid 1468] [client 127.0.0.1:55381] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.422046 2018] [php7:warn] [pid 15520:tid 1472] [client 127.0.0.1:55379] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.447049 2018] [php7:warn] [pid 15520:tid 1484] [client 127.0.0.1:55377] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.470051 2018] [php7:warn] [pid 15520:tid 1492] [client 127.0.0.1:55375] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.496054 2018] [php7:warn] [pid 15520:tid 1496] [client 127.0.0.1:55373] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.524057 2018] [php7:warn] [pid 15520:tid 1504] [client 127.0.0.1:55371] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.552059 2018] [php7:warn] [pid 15520:tid 1516] [client 127.0.0.1:55369] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.581062 2018] [php7:warn] [pid 15520:tid 1524] [client 127.0.0.1:55367] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 11:46:46.607065 2018] [php7:warn] [pid 15520:tid 1576] [client 127.0.0.1:55365] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:35:42.806475 2018] [php7:warn] [pid 15520:tid 1560] [client 127.0.0.1:55361] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535535979.8683910369873046875000&amp;odt_autoload=1): failed to open stream: HTTP request failed!  in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:35:42.807475 2018] [php7:error] [pid 15520:tid 1560] [client 127.0.0.1:55361] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:35:42.983492 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00428: Parent: child process 15520 exited with status 3221225477 -- Restarting.
+[Wed Aug 29 12:35:43.212515 2018] [ssl:warn] [pid 15988:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 12:35:43.308525 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Wed Aug 29 12:35:43.309525 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Wed Aug 29 12:35:43.309525 2018] [core:notice] [pid 15988:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Wed Aug 29 12:35:43.315526 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00418: Parent: Created child process 11296
+[Wed Aug 29 12:35:45.320726 2018] [ssl:warn] [pid 11296:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 12:35:45.498744 2018] [ssl:warn] [pid 11296:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 29 12:35:45.598754 2018] [mpm_winnt:notice] [pid 11296:tid 304] AH00354: Child: Starting 150 worker threads.
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 12:37:08.677061 2018] [php7:error] [pid 11296:tid 1452] [client ::1:55655] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289, referer: http://localhost/fsnadmin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 12:37:08.681061 2018] [php7:error] [pid 11296:tid 1452] [client ::1:55655] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\wp-hide-security-enhancer\\include\\functions.class.php on line 1356, referer: http://localhost/fsnadmin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+
+VirtualAlloc() failed: [0x0000[Wed Aug 29 12:37:08.683061 2018] [php7:error] [pid 11296:tid 1452] [client ::1:55655] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0, referer: http://localhost/fsnadmin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+8] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 12:37:08.688062 2018] [php7:error] [pid 11296:tid 1444] [client 127.0.0.1:55663] PHP Fatal error:  Out of memory (allocated 44040192) (tried to allocate 77824 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\google_fonts\\google_fonts.php on line 33
+[Wed Aug 29 12:37:08.794073 2018] [php7:warn] [pid 11296:tid 1460] [client 127.0.0.1:55653] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:08.846078 2018] [php7:warn] [pid 11296:tid 1464] [client 127.0.0.1:55651] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:08.886082 2018] [php7:warn] [pid 11296:tid 1472] [client 127.0.0.1:55649] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:08.925086 2018] [php7:warn] [pid 11296:tid 1480] [client 127.0.0.1:55647] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:08.963089 2018] [php7:warn] [pid 11296:tid 1492] [client 127.0.0.1:55645] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.000093 2018] [php7:warn] [pid 11296:tid 1500] [client 127.0.0.1:55643] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.032096 2018] [php7:warn] [pid 11296:tid 1504] [client 127.0.0.1:55641] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.064100 2018] [php7:warn] [pid 11296:tid 1512] [client 127.0.0.1:55639] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.101103 2018] [php7:warn] [pid 11296:tid 1524] [client 127.0.0.1:55637] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.139107 2018] [php7:warn] [pid 11296:tid 1528] [client 127.0.0.1:55635] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.173110 2018] [php7:warn] [pid 11296:tid 1584] [client 127.0.0.1:55633] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.202113 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:55629] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.234117 2018] [php7:warn] [pid 11296:tid 1548] [client 127.0.0.1:55627] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.262119 2018] [php7:warn] [pid 11296:tid 1552] [client 127.0.0.1:55625] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.290122 2018] [php7:warn] [pid 11296:tid 1564] [client 127.0.0.1:55623] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.319125 2018] [php7:warn] [pid 11296:tid 1572] [client 127.0.0.1:55621] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39
+[Wed Aug 29 12:37:09.347128 2018] [php7:warn] [pid 11296:tid 1580] [client 127.0.0.1:55619] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250&amp;odt_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\odt-relative-urls-master\\odt-relative-urls.php on line 39, referer: http://localhost/wp-cron.php?doing_wp_cron=1535538996.7908730506896972656250
+[Wed Aug 29 21:19:37.141306 2018] [php7:warn] [pid 11296:tid 1412] [client 127.0.0.1:58803] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:37.303315 2018] [php7:warn] [pid 11296:tid 1420] [client 127.0.0.1:58800] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:37.463324 2018] [php7:warn] [pid 11296:tid 1472] [client 127.0.0.1:58796] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:37.623333 2018] [php7:warn] [pid 11296:tid 1444] [client 127.0.0.1:58793] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:37.782343 2018] [php7:warn] [pid 11296:tid 1436] [client 127.0.0.1:58788] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:37.941352 2018] [php7:warn] [pid 11296:tid 1460] [client 127.0.0.1:58785] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.101361 2018] [php7:warn] [pid 11296:tid 1500] [client 127.0.0.1:58778] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.255370 2018] [php7:warn] [pid 11296:tid 1524] [client 127.0.0.1:58774] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.412379 2018] [php7:warn] [pid 11296:tid 1512] [client 127.0.0.1:58771] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.585388 2018] [php7:warn] [pid 11296:tid 1528] [client 127.0.0.1:58766] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.743398 2018] [php7:warn] [pid 11296:tid 1572] [client 127.0.0.1:58760] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:38.897406 2018] [php7:warn] [pid 11296:tid 1548] [client 127.0.0.1:58757] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:39.053415 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58754] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:39.209424 2018] [php7:warn] [pid 11296:tid 1580] [client 127.0.0.1:58751] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:39.366433 2018] [php7:warn] [pid 11296:tid 1552] [client 127.0.0.1:58748] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:19:39.523442 2018] [php7:warn] [pid 11296:tid 1452] [client 127.0.0.1:58745] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570347.7656259536743164062500
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:54.564734 2018] [php7:error] [pid 11296:tid 1500] [client 127.0.0.1:58856] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\yith-woocommerce-wishlist\\plugin-fw\\licence\\lib\\yit-licence.php on line 320
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:54.579735 2018] [php7:error] [pid 11296:tid 1500] [client 127.0.0.1:58856] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1217
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:54.637738 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58847] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 77824 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\google_fonts\\google_fonts.php on line 33
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:54.650739 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58847] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 21:20:54.896753 2018] [php7:warn] [pid 11296:tid 1564] [client 127.0.0.1:58808] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:55.550791 2018] [php7:error] [pid 11296:tid 1460] [client 127.0.0.1:58858] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 131072 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\wp-db.php on line 1889
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:55.565792 2018] [php7:error] [pid 11296:tid 1460] [client 127.0.0.1:58858] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 21:20:55.702799 2018] [php7:warn] [pid 11296:tid 1528] [client 127.0.0.1:58842] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery.js?ver=1.12.4&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:20:55.901811 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58828] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery.js?ver=1.12.4&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:56.915869 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58865] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\wp-db.php on line 1889
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:56.930870 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58865] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:57.069878 2018] [php7:warn] [pid 11296:tid 1552] [client 127.0.0.1:58826] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/underscore.min.js?ver=1.8.3&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:58.640967 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58870] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 28672 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\functions.php on line 3510
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:58.673969 2018] [php7:error] [pid 11296:tid 1584] [client 127.0.0.1:58870] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 820
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:59.209000 2018] [php7:error] [pid 11296:tid 1528] [client 127.0.0.1:58872] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\google_fonts\\google_fonts.php on line 33
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:20:59.225001 2018] [php7:error] [pid 11296:tid 1528] [client 127.0.0.1:58872] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 21:20:59.545019 2018] [php7:warn] [pid 11296:tid 1524] [client 127.0.0.1:58851] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:20:59.708028 2018] [php7:warn] [pid 11296:tid 1572] [client 127.0.0.1:58838] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:00.039047 2018] [php7:warn] [pid 11296:tid 1464] [client 127.0.0.1:58831] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:00.336064 2018] [php7:warn] [pid 11296:tid 1480] [client 127.0.0.1:58823] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:00.502074 2018] [php7:warn] [pid 11296:tid 1428] [client 127.0.0.1:58820] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:00.672084 2018] [php7:warn] [pid 11296:tid 1492] [client 127.0.0.1:58817] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:00.835093 2018] [php7:warn] [pid 11296:tid 1504] [client 127.0.0.1:58811] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/wp-cron.php?doing_wp_cron=1535570440.4209249019622802734375
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:05.967386 2018] [php7:error] [pid 11296:tid 1480] [client 127.0.0.1:58899] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\google_fonts\\google_fonts.php on line 33
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:05.983387 2018] [php7:error] [pid 11296:tid 1480] [client 127.0.0.1:58899] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 21:21:06.285405 2018] [php7:warn] [pid 11296:tid 1464] [client 127.0.0.1:58882] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:06.450414 2018] [php7:warn] [pid 11296:tid 1460] [client 127.0.0.1:58876] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:06.611423 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58828] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:08.969558 2018] [php7:error] [pid 11296:tid 1528] [client 127.0.0.1:58914] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\google_fonts\\google_fonts.php on line 33
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:08.985559 2018] [php7:error] [pid 11296:tid 1528] [client 127.0.0.1:58914] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1247
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:09.129567 2018] [php7:error] [pid 11296:tid 1492] [client 127.0.0.1:58910] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 131072 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\wp-db.php on line 1889, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:09.143568 2018] [php7:error] [pid 11296:tid 1492] [client 127.0.0.1:58910] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628, referer: http://8ca2571f.ngrok.io/
+[Wed Aug 29 21:21:09.496588 2018] [php7:warn] [pid 11296:tid 1564] [client 127.0.0.1:58896] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-content/themes/shopkeeper/js/components/ajax-search.js?ver=2.6.2&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:09.659598 2018] [php7:warn] [pid 11296:tid 1504] [client 127.0.0.1:58887] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-content/themes/shopkeeper/js/components/ajax-search.js?ver=2.6.2&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:09.836608 2018] [php7:warn] [pid 11296:tid 1572] [client 127.0.0.1:58880] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-content/themes/shopkeeper/js/components/ajax-search.js?ver=2.6.2&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:10.005617 2018] [php7:warn] [pid 11296:tid 1552] [client 127.0.0.1:58826] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-content/themes/shopkeeper/js/components/ajax-search.js?ver=2.6.2&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+[Wed Aug 29 21:21:13.069793 2018] [php7:warn] [pid 11296:tid 1504] [client 127.0.0.1:58924] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-util.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:13.233802 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58828] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-util.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+[Wed Aug 29 21:21:13.663827 2018] [php7:warn] [pid 11296:tid 1564] [client 127.0.0.1:58927] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:13.825836 2018] [php7:warn] [pid 11296:tid 1572] [client 127.0.0.1:58921] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:13.984845 2018] [php7:warn] [pid 11296:tid 1584] [client 127.0.0.1:58917] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:14.163855 2018] [php7:warn] [pid 11296:tid 1460] [client 127.0.0.1:58907] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:14.322864 2018] [php7:warn] [pid 11296:tid 1524] [client 127.0.0.1:58901] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:14.488874 2018] [php7:warn] [pid 11296:tid 1428] [client 127.0.0.1:58892] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:14.652883 2018] [php7:warn] [pid 11296:tid 1580] [client 127.0.0.1:58827] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+[Wed Aug 29 21:21:15.215915 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58828] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-content/themes/shopkeeper/js/components/ajax-search.js?ver=2.6.2&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+[Wed Aug 29 21:21:17.326036 2018] [php7:warn] [pid 11296:tid 1536] [client 127.0.0.1:58828] PHP Warning:  file_get_contents(http://8ca2571f.ngrok.io/wp-includes/js/wp-embed.min.js?ver=4.9.8&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://8ca2571f.ngrok.io/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:49.703888 2018] [php7:error] [pid 11296:tid 1580] [client 127.0.0.1:58957] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 131072 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\wp-db.php on line 1889
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:21:49.721889 2018] [php7:error] [pid 11296:tid 1580] [client 127.0.0.1:58957] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628
+[Wed Aug 29 21:21:49.735890 2018] [php7:warn] [pid 11296:tid 1492] [client 127.0.0.1:58955] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535570504.7916069030761718750000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:21:49.795893 2018] [php7:warn] [pid 11296:tid 1464] [client 127.0.0.1:58950] PHP Warning:  file_get_contents(http://localhost/wp-cron.php?doing_wp_cron=1535570504.7916069030761718750000&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://localhost/wp-cron.php?doing_wp_cron=1535570504.7916069030761718750000
+[Wed Aug 29 21:21:58.804409 2018] [php7:warn] [pid 11296:tid 1536] [client ::1:58952] PHP Warning:  file_get_contents(http://localhost/fsnadmin/plugins.php?deactivate=true&amp;plugin_status=all&amp;paged=1&amp;s&amp;wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36, referer: http://localhost/fsnadmin/plugins.php
+[Wed Aug 29 21:22:25.512936 2018] [php7:warn] [pid 11296:tid 1464] [client ::1:58975] PHP Warning:  file_get_contents(http://localhost/fsnadmin?wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+[Wed Aug 29 21:22:39.960763 2018] [php7:warn] [pid 11296:tid 1492] [client ::1:58981] PHP Warning:  file_get_contents(http://localhost/fsnadmin?wp_ngrok_autoload=1): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found\r\n in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\WP-Ngrok-Local-master\\ngrok-local.php on line 36
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:27:50.387518 2018] [php7:error] [pid 11296:tid 1552] [client ::1:59111] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 329, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:28:50.122935 2018] [php7:error] [pid 11296:tid 1552] [client ::1:59122] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 329, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:29:37.071620 2018] [php7:error] [pid 11296:tid 1552] [client 127.0.0.1:59140] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\media.php on line 3182, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:29:37.077620 2018] [php7:error] [pid 11296:tid 1552] [client 127.0.0.1:59140] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:29:50.740402 2018] [php7:error] [pid 11296:tid 1552] [client 127.0.0.1:59153] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\media.php on line 3182, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:29:50.747402 2018] [php7:error] [pid 11296:tid 1552] [client 127.0.0.1:59153] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:30:50.779836 2018] [php7:error] [pid 11296:tid 1552] [client ::1:59160] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 1628, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:30:50.785836 2018] [php7:error] [pid 11296:tid 1552] [client ::1:59160] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:30:56.504163 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59168] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 297, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:30:56.509164 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59168] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:31:27.392930 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59170] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 297, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:31:27.395930 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59170] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1, referer: http://65015518.ngrok.io/product-category/women/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:31:59.413761 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59172] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:31:59.417762 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59172] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:32:11.032426 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59175] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 4096 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\mo.php on line 289
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:32:11.035426 2018] [php7:error] [pid 11296:tid 1536] [client 127.0.0.1:59175] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 32768 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\woocommerce\\includes\\log-handlers\\class-wc-log-handler-file.php on line 1
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:32:50.176665 2018] [php7:error] [pid 11296:tid 1536] [client ::1:59185] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 102400 bytes) in C:\\Apps\\xampp\\htdocs\\wp-includes\\pomo\\streams.php on line 110, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:36:51.766483 2018] [php7:error] [pid 11296:tid 1536] [client ::1:59198] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\file.php on line 329, referer: http://localhost/wp-admin/
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
+
+[Wed Aug 29 21:38:51.596337 2018] [php7:error] [pid 11296:tid 1536] [client ::1:59202] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 28672 bytes) in C:\\Apps\\xampp\\htdocs\\wp-content\\plugins\\js_composer\\include\\params\\animation_style\\animation_style.php on line 243, referer: http://localhost/wp-admin/
+[Wed Aug 29 22:27:24.075921 2018] [mpm_winnt:notice] [pid 15988:tid 292] AH00428: Parent: child process 11296 exited with status 1073807364 -- Restarting.
+[Thu Aug 30 09:09:47.431681 2018] [ssl:warn] [pid 12432:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 09:09:47.541080 2018] [core:warn] [pid 12432:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 09:09:47.541080 2018] [ssl:warn] [pid 12432:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 09:09:47.697364 2018] [mpm_winnt:notice] [pid 12432:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 09:09:47.697364 2018] [mpm_winnt:notice] [pid 12432:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 09:09:47.697364 2018] [core:notice] [pid 12432:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 09:09:47.697364 2018] [mpm_winnt:notice] [pid 12432:tid 292] AH00418: Parent: Created child process 12680
+[Thu Aug 30 09:09:49.193083 2018] [ssl:warn] [pid 12680:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 09:09:49.333738 2018] [ssl:warn] [pid 12680:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 09:09:49.411880 2018] [mpm_winnt:notice] [pid 12680:tid 304] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 30 10:19:32.189182 2018] [ssl:warn] [pid 11276:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:19:32.309194 2018] [core:warn] [pid 11276:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 10:19:32.313195 2018] [ssl:warn] [pid 11276:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:19:32.498806 2018] [mpm_winnt:notice] [pid 11276:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 10:19:32.498806 2018] [mpm_winnt:notice] [pid 11276:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 10:19:32.498806 2018] [core:notice] [pid 11276:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 10:19:32.530007 2018] [mpm_winnt:notice] [pid 11276:tid 292] AH00418: Parent: Created child process 12504
+[Thu Aug 30 10:19:34.039653 2018] [ssl:warn] [pid 12504:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:19:34.149855 2018] [ssl:warn] [pid 12504:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:19:34.227857 2018] [mpm_winnt:notice] [pid 12504:tid 304] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 30 10:25:01.504774 2018] [ssl:warn] [pid 11384:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:25:01.633181 2018] [core:warn] [pid 11384:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 10:25:01.633181 2018] [ssl:warn] [pid 11384:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:25:01.686983 2018] [mpm_winnt:notice] [pid 11384:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 10:25:01.686983 2018] [mpm_winnt:notice] [pid 11384:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 10:25:01.686983 2018] [core:notice] [pid 11384:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 10:25:01.702583 2018] [mpm_winnt:notice] [pid 11384:tid 292] AH00418: Parent: Created child process 2208
+[Thu Aug 30 10:25:05.197048 2018] [ssl:warn] [pid 2208:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:25:05.450073 2018] [ssl:warn] [pid 2208:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:25:05.571085 2018] [mpm_winnt:notice] [pid 2208:tid 304] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 30 10:38:19.394251 2018] [ssl:warn] [pid 7904:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:38:19.524264 2018] [core:warn] [pid 7904:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 10:38:19.527264 2018] [ssl:warn] [pid 7904:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:38:19.695281 2018] [mpm_winnt:notice] [pid 7904:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 10:38:19.696281 2018] [mpm_winnt:notice] [pid 7904:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 10:38:19.696281 2018] [core:notice] [pid 7904:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 10:38:19.701282 2018] [mpm_winnt:notice] [pid 7904:tid 292] AH00418: Parent: Created child process 12996
+[Thu Aug 30 10:38:21.430454 2018] [ssl:warn] [pid 12996:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:38:21.551467 2018] [ssl:warn] [pid 12996:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 10:38:21.641476 2018] [mpm_winnt:notice] [pid 12996:tid 304] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 30 11:01:36.727391 2018] [ssl:warn] [pid 15156:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 11:01:36.849366 2018] [core:warn] [pid 15156:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 11:01:36.852366 2018] [ssl:warn] [pid 15156:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 11:01:36.927351 2018] [mpm_winnt:notice] [pid 15156:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 11:01:36.927351 2018] [mpm_winnt:notice] [pid 15156:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 11:01:36.927351 2018] [core:notice] [pid 15156:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 11:01:36.932350 2018] [mpm_winnt:notice] [pid 15156:tid 292] AH00418: Parent: Created child process 12840
+[Thu Aug 30 11:01:38.459044 2018] [ssl:warn] [pid 12840:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 11:01:38.574021 2018] [ssl:warn] [pid 12840:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 11:01:38.656005 2018] [mpm_winnt:notice] [pid 12840:tid 304] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 30 11:20:02.747133 2018] [php7:warn] [pid 12840:tid 1544] [client ::1:58859] PHP Warning:  ftp_size() expects parameter 1 to be resource, null given in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\class-wp-filesystem-ftpext.php on line 397, referer: http://127.0.0.1:8888/
+[Thu Aug 30 11:20:02.748133 2018] [php7:warn] [pid 12840:tid 1544] [client ::1:58859] PHP Warning:  ftp_mdtm() expects parameter 1 to be resource, null given in C:\\Apps\\xampp\\htdocs\\wp-admin\\includes\\class-wp-filesystem-ftpext.php on line 388, referer: http://127.0.0.1:8888/
+[Thu Aug 30 13:00:20.294688 2018] [ssl:warn] [pid 14212:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 13:00:20.415700 2018] [core:warn] [pid 14212:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 30 13:00:20.419700 2018] [ssl:warn] [pid 14212:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 13:00:20.632722 2018] [mpm_winnt:notice] [pid 14212:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Thu Aug 30 13:00:20.632722 2018] [mpm_winnt:notice] [pid 14212:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Thu Aug 30 13:00:20.632722 2018] [core:notice] [pid 14212:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Thu Aug 30 13:00:20.640723 2018] [mpm_winnt:notice] [pid 14212:tid 292] AH00418: Parent: Created child process 13236
+[Thu Aug 30 13:00:23.355994 2018] [ssl:warn] [pid 13236:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 13:00:23.510009 2018] [ssl:warn] [pid 13236:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 30 13:00:23.612020 2018] [mpm_winnt:notice] [pid 13236:tid 304] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 03 18:23:26.487688 2018] [ssl:warn] [pid 2548:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:23:26.582690 2018] [core:warn] [pid 2548:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 03 18:23:26.585190 2018] [ssl:warn] [pid 2548:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:23:26.705192 2018] [mpm_winnt:notice] [pid 2548:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Mon Sep 03 18:23:26.705192 2018] [mpm_winnt:notice] [pid 2548:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Mon Sep 03 18:23:26.705192 2018] [core:notice] [pid 2548:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Mon Sep 03 18:23:26.710192 2018] [mpm_winnt:notice] [pid 2548:tid 292] AH00418: Parent: Created child process 7932
+[Mon Sep 03 18:23:28.182714 2018] [ssl:warn] [pid 7932:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:23:28.270216 2018] [ssl:warn] [pid 7932:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:23:28.342717 2018] [mpm_winnt:notice] [pid 7932:tid 304] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 03 18:27:25.191421 2018] [mpm_winnt:notice] [pid 2548:tid 292] AH00428: Parent: child process 7932 exited with status 1073807364 -- Restarting.
+[Mon Sep 03 18:36:07.164686 2018] [ssl:warn] [pid 8984:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:36:07.273886 2018] [core:warn] [pid 8984:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 03 18:36:07.273886 2018] [ssl:warn] [pid 8984:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:36:07.445486 2018] [mpm_winnt:notice] [pid 8984:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Mon Sep 03 18:36:07.445486 2018] [mpm_winnt:notice] [pid 8984:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Mon Sep 03 18:36:07.445486 2018] [core:notice] [pid 8984:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Mon Sep 03 18:36:07.445486 2018] [mpm_winnt:notice] [pid 8984:tid 292] AH00418: Parent: Created child process 10196
+[Mon Sep 03 18:36:09.502194 2018] [ssl:warn] [pid 10196:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:36:09.626994 2018] [ssl:warn] [pid 10196:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:36:09.729995 2018] [mpm_winnt:notice] [pid 10196:tid 304] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 03 18:42:18.135180 2018] [ssl:warn] [pid 11464:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:42:18.237681 2018] [core:warn] [pid 11464:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 03 18:42:18.240181 2018] [ssl:warn] [pid 11464:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:42:18.300182 2018] [mpm_winnt:notice] [pid 11464:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Mon Sep 03 18:42:18.300182 2018] [mpm_winnt:notice] [pid 11464:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Mon Sep 03 18:42:18.300182 2018] [core:notice] [pid 11464:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Mon Sep 03 18:42:18.305182 2018] [mpm_winnt:notice] [pid 11464:tid 292] AH00418: Parent: Created child process 9324
+[Mon Sep 03 18:42:19.775205 2018] [ssl:warn] [pid 9324:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:42:19.862706 2018] [ssl:warn] [pid 9324:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 03 18:42:19.925207 2018] [mpm_winnt:notice] [pid 9324:tid 304] AH00354: Child: Starting 150 worker threads.

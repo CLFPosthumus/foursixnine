@@ -1258,6 +1258,6 @@ if ( !function_exists('shopkeeper_loop_columns_class')):
 			$products_per_column_large = 1;
 			$products_per_column_medium = 1;
 		}
-		echo $shopkeeper_theme_options['mobile_columns'] == 1 ? 'small-up-1' : 'small-up-2'; ?> medium-up-<?php echo $products_per_column_medium; ?> large-up-<?php echo $products_per_column_large; ?> xlarge-up-<?php echo $products_per_column_xlarge; ?> xxlarge-up-<?php echo $products_per_column;
+		echo $shopkeeper_theme_options['mobile_columns'] == 1 ? 'small-up-1' : 'small-up-1'; ?> medium-up-<?php echo $products_per_column_medium; ?> large-up-<?php echo $products_per_column_large; ?> xlarge-up-<?php echo $products_per_column_xlarge; ?> xxlarge-up-<?php echo $products_per_column;
 	}
 endif;

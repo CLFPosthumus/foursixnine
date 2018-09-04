@@ -1,0 +1,247 @@
+21:24:20  [main] 	Initializing Control Panel
+21:24:20  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+21:24:20  [main] 	XAMPP Version: 7.2.8
+21:24:20  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+21:24:20  [main] 	You are not running with administrator rights! This will work for
+21:24:20  [main] 	most application stuff but whenever you do something with services
+21:24:20  [main] 	there will be a security dialogue or things will break! So think 
+21:24:20  [main] 	about running this application with administrator rights!
+21:24:20  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+21:24:20  [main] 	Checking for prerequisites
+21:24:21  [main] 	All prerequisites found
+21:24:21  [main] 	Initializing Modules
+21:24:21  [main] 	Starting Check-Timer
+21:24:21  [main] 	Control Panel Ready
+21:24:22  [Apache] 	Attempting to start Apache app...
+21:24:23  [mysql] 	Attempting to start MySQL app...
+21:24:23  [Apache] 	Status change detected: running
+21:24:23  [mysql] 	Status change detected: running
+9:06:27  [main] 	Deinitializing Modules
+9:06:27  [main] 	Deinitializing Control Panel
+
+16:57:14  [main] 	Initializing Control Panel
+16:57:14  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+16:57:14  [main] 	XAMPP Version: 7.2.8
+16:57:14  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+16:57:14  [main] 	You are not running with administrator rights! This will work for
+16:57:14  [main] 	most application stuff but whenever you do something with services
+16:57:14  [main] 	there will be a security dialogue or things will break! So think 
+16:57:14  [main] 	about running this application with administrator rights!
+16:57:14  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+16:57:14  [main] 	Checking for prerequisites
+16:57:15  [main] 	All prerequisites found
+16:57:15  [main] 	Initializing Modules
+16:57:15  [main] 	Starting Check-Timer
+16:57:15  [main] 	Control Panel Ready
+16:57:18  [Apache] 	Attempting to start Apache app...
+16:57:18  [Apache] 	Status change detected: running
+16:57:19  [mysql] 	Attempting to start MySQL app...
+16:57:19  [mysql] 	Status change detected: running
+17:05:34  [Apache] 	Attempting to stop Apache (PID: 8532)
+17:05:34  [Apache] 	Attempting to stop Apache (PID: 12440)
+17:05:34  [Apache] 	Status change detected: stopped
+17:05:35  [Apache] 	Attempting to start Apache app...
+17:05:35  [Apache] 	Status change detected: running
+17:35:41  [Apache] 	Attempting to stop Apache (PID: 15188)
+17:35:41  [Apache] 	Attempting to stop Apache (PID: 13916)
+17:35:41  [Apache] 	Status change detected: stopped
+17:35:41  [mysql] 	Attempting to stop MySQL app...
+17:35:42  [mysql] 	Status change detected: stopped
+18:28:31  [mysql] 	Attempting to start MySQL app...
+18:28:31  [mysql] 	Status change detected: running
+18:28:32  [Apache] 	Attempting to start Apache app...
+18:28:32  [Apache] 	Status change detected: running
+19:04:17  [Apache] 	Attempting to stop Apache (PID: 17392)
+19:04:17  [Apache] 	Attempting to stop Apache (PID: 16072)
+19:04:17  [Apache] 	Status change detected: stopped
+19:04:18  [mysql] 	Attempting to stop MySQL app...
+19:04:18  [mysql] 	Status change detected: stopped
+19:07:59  [Apache] 	Attempting to start Apache app...
+19:08:00  [Apache] 	Status change detected: running
+19:08:01  [mysql] 	Attempting to start MySQL app...
+19:08:01  [mysql] 	Status change detected: running
+14:37:35  [Apache] 	Attempting to stop Apache (PID: 11540)
+14:37:35  [Apache] 	Attempting to stop Apache (PID: 14004)
+14:37:35  [mysql] 	Attempting to stop MySQL app...
+14:37:35  [Apache] 	Status change detected: stopped
+14:37:36  [mysql] 	Status change detected: stopped
+14:53:30  [mysql] 	Attempting to start MySQL app...
+14:53:30  [mysql] 	Status change detected: running
+14:53:32  [Apache] 	Attempting to start Apache app...
+14:53:32  [Apache] 	Status change detected: running
+21:02:00  [Apache] 	Attempting to stop Apache (PID: 15036)
+21:02:00  [Apache] 	Attempting to stop Apache (PID: 12456)
+21:02:00  [Apache] 	Status change detected: stopped
+21:02:01  [mysql] 	Attempting to stop MySQL app...
+21:02:01  [mysql] 	Status change detected: stopped
+21:03:40  [Apache] 	Attempting to start Apache app...
+21:03:41  [Apache] 	Status change detected: running
+21:03:41  [mysql] 	Attempting to start MySQL app...
+21:03:41  [mysql] 	Status change detected: running
+15:18:33  [Apache] 	Attempting to stop Apache (PID: 17248)
+15:18:33  [Apache] 	Attempting to stop Apache (PID: 18328)
+15:18:34  [Apache] 	Status change detected: stopped
+15:18:34  [mysql] 	Attempting to stop MySQL app...
+15:18:34  [mysql] 	Status change detected: stopped
+21:24:23  [Apache] 	Status change detected: running
+21:24:23  [mysql] 	Status change detected: running
+9:06:27  [Apache] 	Status change detected: stopped
+9:06:27  [mysql] 	Status change detected: stopped
+9:06:27  [main] 	Deinitializing Modules
+9:06:27  [main] 	Deinitializing Control Panel
+
+10:10:55  [main] 	Initializing Control Panel
+10:10:55  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+10:10:56  [main] 	XAMPP Version: 7.2.8
+10:10:56  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:10:56  [main] 	You are not running with administrator rights! This will work for
+10:10:56  [main] 	most application stuff but whenever you do something with services
+10:10:56  [main] 	there will be a security dialogue or things will break! So think 
+10:10:56  [main] 	about running this application with administrator rights!
+10:10:56  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+10:10:56  [main] 	Checking for prerequisites
+10:10:57  [main] 	All prerequisites found
+10:10:57  [main] 	Initializing Modules
+10:10:57  [main] 	Starting Check-Timer
+10:10:57  [main] 	Control Panel Ready
+10:15:10  [Apache] 	Attempting to start Apache app...
+10:15:10  [Apache] 	Status change detected: running
+10:15:10  [filezilla] 	Attempting to start FileZilla app...
+10:15:11  [filezilla] 	Status change detected: running
+10:15:12  [mysql] 	Attempting to start MySQL app...
+10:15:12  [mysql] 	Status change detected: running
+10:15:12  [filezilla] 	Attempting to stop FileZilla app...
+10:15:12  [filezilla] 	Status change detected: stopped
+10:49:56  [Apache] 	Attempting to stop Apache (PID: 7276)
+10:49:56  [Apache] 	Attempting to stop Apache (PID: 2480)
+10:49:56  [Apache] 	Status change detected: stopped
+10:49:56  [mysql] 	Attempting to stop MySQL app...
+10:49:57  [mysql] 	Status change detected: stopped
+10:49:58  [Apache] 	Attempting to start Apache app...
+10:49:58  [Apache] 	Status change detected: running
+10:49:59  [mysql] 	Attempting to start MySQL app...
+10:49:59  [mysql] 	Status change detected: running
+11:14:04  [Apache] 	Attempting to stop Apache (PID: 14100)
+11:14:04  [Apache] 	Attempting to stop Apache (PID: 14884)
+11:14:04  [Apache] 	Status change detected: stopped
+11:14:04  [Apache] 	Attempting to start Apache app...
+11:14:04  [Apache] 	Status change detected: running
+22:27:24  [Apache] 	Status change detected: stopped
+22:27:24  [Apache] 	Error: Apache shutdown unexpectedly.
+22:27:24  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:27:24  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:27:24  [Apache] 	Press the Logs button to view error logs and check
+22:27:24  [Apache] 	the Windows Event Viewer for more clues
+22:27:24  [Apache] 	If you need more help, copy and post this
+22:27:24  [Apache] 	entire log window on the forums
+22:27:24  [mysql] 	Status change detected: stopped
+22:27:24  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:27:24  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:27:24  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:27:24  [mysql] 	Press the Logs button to view error logs and check
+22:27:24  [mysql] 	the Windows Event Viewer for more clues
+22:27:24  [mysql] 	If you need more help, copy and post this
+22:27:24  [mysql] 	entire log window on the forums
+22:27:24  [main] 	Deinitializing Modules
+22:27:24  [main] 	Deinitializing Control Panel
+
+9:09:43  [main] 	Initializing Control Panel
+9:09:43  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+9:09:43  [main] 	XAMPP Version: 7.2.8
+9:09:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:09:43  [main] 	You are not running with administrator rights! This will work for
+9:09:43  [main] 	most application stuff but whenever you do something with services
+9:09:43  [main] 	there will be a security dialogue or things will break! So think 
+9:09:43  [main] 	about running this application with administrator rights!
+9:09:43  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+9:09:43  [main] 	Checking for prerequisites
+9:09:44  [main] 	All prerequisites found
+9:09:44  [main] 	Initializing Modules
+9:09:44  [main] 	Enabling autostart for module "Apache"
+9:09:44  [main] 	Enabling autostart for module "MySQL"
+9:09:44  [main] 	Starting Check-Timer
+9:09:44  [main] 	Control Panel Ready
+9:09:44  [Apache] 	Autostart active: starting...
+9:09:44  [Apache] 	Attempting to start Apache app...
+9:09:44  [mysql] 	Autostart active: starting...
+9:09:44  [mysql] 	Attempting to start MySQL app...
+9:09:45  [Apache] 	Status change detected: running
+9:09:45  [mysql] 	Status change detected: running
+9:53:17  [Apache] 	Attempting to stop Apache (PID: 12432)
+9:53:17  [Apache] 	Attempting to stop Apache (PID: 12680)
+9:53:17  [Apache] 	Status change detected: stopped
+9:53:18  [mysql] 	Attempting to stop MySQL app...
+9:53:18  [mysql] 	Status change detected: stopped
+10:19:07  [mysql] 	Attempting to start MySQL app...
+10:19:08  [mysql] 	Status change detected: running
+10:19:30  [Apache] 	Attempting to start Apache app...
+10:19:30  [Apache] 	Status change detected: running
+10:23:09  [Apache] 	Attempting to stop Apache (PID: 11276)
+10:23:09  [Apache] 	Attempting to stop Apache (PID: 12504)
+10:23:10  [Apache] 	Status change detected: stopped
+10:23:10  [mysql] 	Attempting to stop MySQL app...
+10:23:10  [mysql] 	Status change detected: stopped
+10:24:59  [Apache] 	Attempting to start Apache app...
+10:25:00  [Apache] 	Status change detected: running
+10:25:01  [mysql] 	Attempting to start MySQL app...
+10:25:02  [mysql] 	Status change detected: running
+10:25:50  [mysql] 	Attempting to stop MySQL app...
+10:25:50  [mysql] 	Status change detected: stopped
+10:25:51  [Apache] 	Attempting to stop Apache (PID: 11384)
+10:25:51  [Apache] 	Attempting to stop Apache (PID: 2208)
+10:25:51  [Apache] 	Status change detected: stopped
+10:38:17  [Apache] 	Attempting to start Apache app...
+10:38:17  [Apache] 	Status change detected: running
+10:38:17  [mysql] 	Attempting to start MySQL app...
+10:38:17  [mysql] 	Status change detected: running
+11:01:03  [Apache] 	Attempting to stop Apache (PID: 7904)
+11:01:03  [Apache] 	Attempting to stop Apache (PID: 12996)
+11:01:03  [Apache] 	Status change detected: stopped
+11:01:03  [mysql] 	Attempting to stop MySQL app...
+11:01:04  [mysql] 	Status change detected: stopped
+11:01:34  [Apache] 	Attempting to start Apache app...
+11:01:34  [Apache] 	Status change detected: running
+11:01:35  [mysql] 	Attempting to start MySQL app...
+11:01:35  [mysql] 	Status change detected: running
+11:45:03  [Apache] 	Attempting to stop Apache (PID: 15156)
+11:45:03  [Apache] 	Attempting to stop Apache (PID: 12840)
+11:45:04  [Apache] 	Status change detected: stopped
+11:45:04  [mysql] 	Attempting to stop MySQL app...
+11:45:05  [mysql] 	Status change detected: stopped
+13:00:14  [Apache] 	Attempting to start Apache app...
+13:00:15  [Apache] 	Status change detected: running
+13:00:15  [mysql] 	Attempting to start MySQL app...
+13:00:15  [mysql] 	Status change detected: running
+13:06:55  [Apache] 	Attempting to stop Apache (PID: 14212)
+13:06:55  [Apache] 	Attempting to stop Apache (PID: 13236)
+13:06:55  [Apache] 	Status change detected: stopped
+13:06:56  [mysql] 	Attempting to stop MySQL app...
+13:06:56  [mysql] 	Status change detected: stopped
+10:09:21  [main] 	Deinitializing Modules
+10:09:21  [main] 	Deinitializing Control Panel
+
+18:23:23  [main] 	Initializing Control Panel
+18:23:23  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+18:23:23  [main] 	XAMPP Version: 7.2.8
+18:23:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:23:23  [main] 	You are not running with administrator rights! This will work for
+18:23:23  [main] 	most application stuff but whenever you do something with services
+18:23:23  [main] 	there will be a security dialogue or things will break! So think 
+18:23:23  [main] 	about running this application with administrator rights!
+18:23:23  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+18:23:23  [main] 	Checking for prerequisites
+18:23:24  [main] 	All prerequisites found
+18:23:24  [main] 	Initializing Modules
+18:23:24  [main] 	Enabling autostart for module "Apache"
+18:23:24  [main] 	Enabling autostart for module "MySQL"
+18:23:24  [main] 	Starting Check-Timer
+18:23:24  [main] 	Control Panel Ready
+18:23:24  [Apache] 	Autostart active: starting...
+18:23:24  [Apache] 	Attempting to start Apache app...
+18:23:24  [mysql] 	Autostart active: starting...
+18:23:24  [mysql] 	Attempting to start MySQL app...
+18:23:25  [Apache] 	Status change detected: running
+18:23:25  [mysql] 	Status change detected: running
+18:27:25  [main] 	Deinitializing Modules
+18:27:25  [main] 	Deinitializing Control Panel
+

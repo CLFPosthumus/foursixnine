@@ -46,7 +46,7 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 ?>
 
 
-<li class="column <?php if ( $animateCounter ) echo ' delay-' . $animateCounter; ?><?php if ( (isset($shopkeeper_theme_options['catalog_mode'])) && ($shopkeeper_theme_options['catalog_mode'] == 1) ) echo ' display_buttons'; ?><?php if ( !$shopkeeper_theme_options['add_to_cart_display']) echo ' display_buttons'; ?>">
+<li id= "product" class="column <?php if ( $animateCounter ) echo ' delay-' . $animateCounter; ?><?php if ( (isset($shopkeeper_theme_options['catalog_mode'])) && ($shopkeeper_theme_options['catalog_mode'] == 1) ) echo ' display_buttons'; ?><?php if ( !$shopkeeper_theme_options['add_to_cart_display']) echo ' display_buttons'; ?>">
    
 	<?php do_action( 'woocommerce_before_shop_loop_item' ); ?>	
 

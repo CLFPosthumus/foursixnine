@@ -4,13 +4,13 @@
  * Plugin Name: Woocommerce Sisow Payment Methods
  * Plugin URI: https://wordpress.org/plugins/sisow-for-woocommerce/
  * Description: Sisow payment methods for woocommerce
- * Version: 5.0.4
+ * Version: 5.0.5
  * Author: Sisow
  * Author URI: http://www.sisow.nl
  * Requires at least: 3.0.1
  * Tested up to: 4.9.4
  * WC requires at least: 2.0.0
- * WC tested up to: 3.3.1
+ * WC tested up to: 3.4.4
  *
  * Text Domain: woocommerce-sisow
  * Domain Path: /languages/

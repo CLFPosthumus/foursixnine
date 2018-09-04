@@ -197,8 +197,36 @@ class Sisow_Helper_Sisow
 			return -7;
 		}
 		
-		if(!$this->verifyOrder($keyvalue) && ($this->payment == 'focum' || $this->payment == 'afterpay' || $this->payment == 'klarna' || $this->payment == 'klarnaacc'))
-			return -10;
+		if($this->payment == 'focum' || $this->payment == 'afterpay' || $this->payment == 'capayable' || $this->payment == 'klarna' || $this->payment == 'klarnaacc')
+		{
+			$rowtotal = 0;
+			$lastIndex = 0;
+		
+			foreach($keyvalue as $key => $value)
+			{
+				if (strpos($key,'product_total_') !== false) {
+					$rowtotal += $keyvalue[$key];
+					
+					$lastIndex = str_replace('product_total_', '', $key);
+				}
+			}
+			
+			$diff = round(($this->amount * 100.0)) - $rowtotal;
+
+			if($diff != 0)
+			{
+				$lastIndex++;
+				
+				$keyvalue['product_id_' . $lastIndex] = 'cor';
+				$keyvalue['product_description_' . $lastIndex] = 'correctie regel';
+				$keyvalue['product_quantity_' . $lastIndex] = '1';
+				$keyvalue['product_netprice_' . $lastIndex] = $diff;
+				$keyvalue['product_total_' . $lastIndex] = $diff;
+				$keyvalue['product_nettotal_' . $lastIndex] = $diff;
+				$keyvalue['product_tax_' . $lastIndex] = '0';
+				$keyvalue['product_taxrate_' . $lastIndex] = '0';
+			}			
+		}
 		
 		if (!$this->entranceCode)
 			$this->entranceCode = $this->purchaseId;
@@ -355,39 +383,7 @@ class Sisow_Helper_Sisow
 		$this->documentId = $this->parse("documentid");
 		return 0; //$this->invoiceNo;
 	}
-	
-	private function verifyOrder($pars)
-	{
-		if(!array_key_exists('product_total_1', $pars))
-		{
-			$this->errorCode = "ORDERROWS";
-			$this->errorMessage = "No orderrows found";
-			return false;
-		}
 		
-		$rowtotal = 0;
-		
-		foreach($pars as $key => $value)
-		{
-			if (strpos($key,'product_total_') !== false) {
-				$rowtotal += $pars[$key];
-			}
-		}
-		
-		$diff = $rowtotal - round(($this->amount * 100.0));
-		if($diff < 0)
-			$diff = $diff * -1;
-
-		if($diff > 1)
-		{
-			$this->errorCode = "ORDERTOTAL";
-			$this->errorMessage = "Order total(".($this->amount * 100.0).") don't match RowTotal (".$rowtotal.")";
-			return false;
-		}
-		
-		return true;
-	}
-	
 	public function setLocale($countryIso)
 	{
 		$supported = array("US");

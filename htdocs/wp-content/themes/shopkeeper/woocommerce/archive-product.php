@@ -142,7 +142,7 @@ ob_end_clean();
 		</div><!--  .shop_header-->
 		<?php endif; ?>
 				
-		<div class="row">
+		<div class="row" id="columns-cp">
 			<div class="large-12 columns">
 			   
 			   <div class="before_main_content">
@@ -296,8 +296,8 @@ ob_end_clean();
 			
 						<?php if ( (function_exists('woocommerce_product_loop') && woocommerce_product_loop()) || have_posts() ) : ?>
 										   
-							<div class="row">
-								<div class="large-12 columns">
+							<div class="row" id="outer-row-cp">
+								<div class="large-12 columns" id= "columns-cp">
 									<?php 
 									  $animateCounter = 0;
 									  woocommerce_product_loop_start();

@@ -5,7 +5,7 @@ Donate link: http://www.sisow.nl
 Tags: Sisow, Afterpay, Belfius, bunq, iDEAL, Creditcard, WooCommerce, Payment, MisterCash, SofortBanking, OverBoeking, Ebill, Giftcard, PayPal, Visa, Mastercard, Maestro, Giropay, EPS, Focum, VVV, Homepay
 Requires at least: 3.0.1
 Tested up to: 4.9.4
-Stable tag: 5.0.4
+Stable tag: 5.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,6 +93,9 @@ Contact WP-engine, this is an cache setting at their side, the returnURL may not
 2. The configuration in WooCommerce
 
 == Changelog ==
+= 5.0.5 =
+* Fix: Small tweak in order totals for Afterpay/Capayable/Focum
+
 = 5.0.3 =
 * Fix: Afterpay GPDR
 

@@ -10,6 +10,6 @@
 global $shopkeeper_theme_options;
 ?>
 
-<div class="row">
+<div class="row" id="product-row">
 	<div class="large-12 columns">
 		<ul id="products-grid" class="row products products-grid <?php shopkeeper_loop_columns_class(); ?>">
