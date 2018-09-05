@@ -31,9 +31,15 @@ body, input, textarea, button, select {
     padding: 0;
 }
 
-#columns-cp{
+#columns-cp1{
+    padding: 0;   
     margin: 0;
     min-width: 100%;
+    /*test*/
+    border-top: 1px solid #bbb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(187, 187, 187);
 }
 
 
@@ -118,5 +124,15 @@ select {
 }
 
 #primary{
-    padding:0;
 }
+
+
+
+#header-row{
+    padding:0;
+    margin:0;
+    max-width: 100%;
+}
+
+
+

@@ -7,7 +7,7 @@
 <header id="masthead" class="site-header" role="banner">
 
     <?php if ( (isset($shopkeeper_theme_options['header_width'])) && ($shopkeeper_theme_options['header_width'] == "custom") ) : ?>
-    <div class="row">		
+    <div class="row" id ="header-row">		
         <div class="large-12 columns">
     <?php endif; ?>    
         

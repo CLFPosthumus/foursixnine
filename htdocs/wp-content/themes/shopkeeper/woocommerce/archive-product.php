@@ -142,7 +142,7 @@ ob_end_clean();
 		</div><!--  .shop_header-->
 		<?php endif; ?>
 				
-		<div class="row" id="columns-cp">
+		<div class="row" id="columns-cp1">
 			<div class="large-12 columns">
 			   
 			   <div class="before_main_content">
@@ -339,5 +339,8 @@ ob_end_clean();
 		</div><!-- .row -->
 		
 	</div><!-- #primary -->
-
+	<?php
+		echo "<script>document.getElementById('primary').style.paddingTop = '0';</script>";
+		echo "<script>document.getElementsByClassName('catalog_top')[0].style.paddingBottom = 0px';</script>";
+	?>    
 <?php get_footer('shop'); ?>
