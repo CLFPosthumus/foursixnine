@@ -25794,7 +25794,7 @@ body.gbt_classic_notif.woocommerce-checkout .woocommerce-error::before {
       display: inline-block;
       float: right !important;
       vertical-align: middle;
-      padding: 19px 24px 16px 24px !important; }
+      padding: 19px 14px 16px 24px !important; }
     .product_layout_2 .product:not(.product-type-grouped) .product_content_wrapper .product_infos form.cart .quantity:not(.custom) {
       margin-right: 18px !important; }
     .product_layout_2 .product:not(.product-type-grouped) .product_content_wrapper .product_infos form.cart .quantity:not(.custom) ~ .button {

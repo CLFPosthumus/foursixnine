@@ -220,3 +220,9 @@
 </div>
 
 
+<style>
+@media only screen and (max-width: 767px){
+.product_layout_3 .product:not(.product-type-grouped) .product_content_wrapper .product_infos form.cart .quantity.custom~.button {
+	padding: 19px 14px 16px 24px;
+}}
+</style>

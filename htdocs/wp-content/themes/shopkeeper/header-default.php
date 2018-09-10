@@ -80,7 +80,8 @@
 				}
                 ?>
                     
-                <div class="site-tools <?php echo esc_html($site_tools_padding_class); ?> <?php if ( (isset($header_alignment)) ) echo esc_html($header_alignment); ?>">
+                <div class="site-tools new-cart-button <?php echo esc_html($site_tools_padding_class); ?> <?php if ( (isset($header_alignment)) ) echo esc_html($header_alignment); ?>">
+                <!-- <div class="new-cart-button"> -->
                     <ul>
                         
                         <?php if (class_exists('YITH_WCWL')) : ?>
@@ -100,6 +101,22 @@
                         <?php endif; ?>
                         <?php endif; ?>
                         
+             
+                        <?php if ( (isset($shopkeeper_theme_options['main_header_search_bar'])) && ($shopkeeper_theme_options['main_header_search_bar'] == "1") ) : ?>
+                        <li class="offcanvas-menu-button search-button">
+                            <a class="tools_button" data-toggle="offCanvasTop1">
+                                <span class="tools_button_icon">
+                                	<?php if ( (isset($shopkeeper_theme_options['main_header_search_bar_icon'])) && ($shopkeeper_theme_options['main_header_search_bar_icon'] != "") ) : ?>
+                                    <img src="<?php echo esc_url($shopkeeper_theme_options['main_header_search_bar_icon']); ?>">
+                                    <?php else : ?>
+                                    <i class="spk-icon spk-icon-search"></i>
+									<?php endif; ?>
+                                </span>
+                            </a>
+                        </li>
+                        <?php endif; ?>
+
+
                         <?php if (class_exists('WooCommerce')) : ?>
                         <?php if ( (isset($shopkeeper_theme_options['main_header_shopping_bag'])) && ($shopkeeper_theme_options['main_header_shopping_bag'] == "1") ) : ?>
                         <?php if ( (isset($shopkeeper_theme_options['catalog_mode'])) && ($shopkeeper_theme_options['catalog_mode'] == 1) ) : ?>
@@ -110,10 +127,13 @@
                                 	<?php if ( (isset($shopkeeper_theme_options['main_header_shopping_bag_icon'])) && ($shopkeeper_theme_options['main_header_shopping_bag_icon'] != "") ) : ?>
                                     <img src="<?php echo esc_url($shopkeeper_theme_options['main_header_shopping_bag_icon']); ?>">
                                     <?php else : ?>
-                                    <i class="spk-icon spk-icon-cart-shopkeeper"></i>
+                                    CART
+                                    <!-- <i class="spk-icon spk-icon-cart-shopkeeper"></i> -->
+                                    <!-- <i id='shopkeeper-menu-item-2976' class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2852 current_page_item">CART</i> -->
 									<?php endif; ?>
                                 </span>
-                                <span class="shopping_bag_items_number"><?php echo esc_html(WC()->cart->get_cart_contents_count()); ?></span>
+                              
+                                <span class="shopping_bag_items_number"><?php echo esc_html(WC()->cart->get_cart_contents_count()); ?> </span>
                             </a>
                         </li>
                         <?php endif; ?>
@@ -134,20 +154,7 @@
                         </li>
                         <?php endif; ?>
 
-                        
-                        <?php if ( (isset($shopkeeper_theme_options['main_header_search_bar'])) && ($shopkeeper_theme_options['main_header_search_bar'] == "1") ) : ?>
-                        <li class="offcanvas-menu-button search-button">
-                            <a class="tools_button" data-toggle="offCanvasTop1">
-                                <span class="tools_button_icon">
-                                	<?php if ( (isset($shopkeeper_theme_options['main_header_search_bar_icon'])) && ($shopkeeper_theme_options['main_header_search_bar_icon'] != "") ) : ?>
-                                    <img src="<?php echo esc_url($shopkeeper_theme_options['main_header_search_bar_icon']); ?>">
-                                    <?php else : ?>
-                                    <i class="spk-icon spk-icon-search"></i>
-									<?php endif; ?>
-                                </span>
-                            </a>
-                        </li>
-                        <?php endif; ?>
+           
 
                         <li class="offcanvas-menu-button <?php if ( (isset($shopkeeper_theme_options['main_header_off_canvas'])) && ($shopkeeper_theme_options['main_header_off_canvas'] == "0") ) : ?>hide-for-large<?php endif; ?>">
                             <a class="tools_button" data-toggle="offCanvasRight1">
@@ -162,6 +169,7 @@
                         </li>
                         
                     </ul>
+                    <!-- </div> -->
                 </div>
                 
                 <nav class="show-for-large main-navigation default-navigation <?php if ( (isset($header_alignment)) ) echo esc_html($header_alignment); ?>" role="navigation">                    
