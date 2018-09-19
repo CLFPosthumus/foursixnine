@@ -245,3 +245,28 @@
 18:27:25  [main] 	Deinitializing Modules
 18:27:25  [main] 	Deinitializing Control Panel
 
+12:44:35  [main] 	Initializing Control Panel
+12:44:35  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+12:44:35  [main] 	XAMPP Version: 7.2.8
+12:44:35  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+12:44:35  [main] 	You are not running with administrator rights! This will work for
+12:44:35  [main] 	most application stuff but whenever you do something with services
+12:44:35  [main] 	there will be a security dialogue or things will break! So think 
+12:44:35  [main] 	about running this application with administrator rights!
+12:44:35  [main] 	XAMPP Installation Directory: "c:\apps\xampp\"
+12:44:35  [main] 	Checking for prerequisites
+12:44:36  [main] 	All prerequisites found
+12:44:36  [main] 	Initializing Modules
+12:44:36  [main] 	Enabling autostart for module "Apache"
+12:44:36  [main] 	Enabling autostart for module "MySQL"
+12:44:36  [main] 	Starting Check-Timer
+12:44:36  [main] 	Control Panel Ready
+12:44:36  [Apache] 	Autostart active: starting...
+12:44:36  [Apache] 	Attempting to start Apache app...
+12:44:36  [mysql] 	Autostart active: starting...
+12:44:36  [mysql] 	Attempting to start MySQL app...
+12:44:37  [Apache] 	Status change detected: running
+12:44:37  [mysql] 	Status change detected: running
+17:11:28  [main] 	Deinitializing Modules
+17:11:28  [main] 	Deinitializing Control Panel
+

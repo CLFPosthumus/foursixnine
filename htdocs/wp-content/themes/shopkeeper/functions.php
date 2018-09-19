@@ -703,7 +703,7 @@ function shopkeeper_shopping_bag_items_number( $fragments )
 	global $woocommerce;
 	ob_start(); ?>
 
-    <span class="shopping_bag_items_number"><?php echo esc_html(WC()->cart->get_cart_contents_count()); ?></span>
+    <span class="shopping_bag_items_number"> <?php  echo esc_html("(" . WC()->cart->get_cart_contents_count() .")" ); ?></span>
 	<?php
 	$fragments['.shopping_bag_items_number'] = ob_get_clean();
 	return $fragments;

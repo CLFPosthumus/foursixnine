@@ -1223,3 +1223,35 @@ VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
 [Thu Sep 06 16:11:13.266994 2018] [php7:crit] [pid 17016:tid 1528] [client ::1:51163] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\inc\\custom-menu\\custom_walker.php on line 55, referer: http://localhost/fsnadmin/post.php?post=3030&action=edit&message=1
 [Thu Sep 06 16:11:15.771639 2018] [php7:crit] [pid 17016:tid 1528] [client ::1:51169] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\inc\\custom-menu\\custom_walker.php on line 55
 [Thu Sep 06 16:14:16.811650 2018] [php7:crit] [pid 17016:tid 1544] [client ::1:51477] PHP Parse error:  syntax error, unexpected ',' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\inc\\custom-menu\\custom_walker.php on line 58
+[Mon Sep 10 12:51:41.290371 2018] [ssl:warn] [pid 17352:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 10 12:51:41.415176 2018] [core:warn] [pid 17352:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 10 12:51:41.415176 2018] [ssl:warn] [pid 17352:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 10 12:51:41.493180 2018] [mpm_winnt:notice] [pid 17352:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Mon Sep 10 12:51:41.493180 2018] [mpm_winnt:notice] [pid 17352:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Mon Sep 10 12:51:41.493180 2018] [core:notice] [pid 17352:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Mon Sep 10 12:51:41.508781 2018] [mpm_winnt:notice] [pid 17352:tid 292] AH00418: Parent: Created child process 17064
+[Mon Sep 10 12:51:43.366665 2018] [ssl:warn] [pid 17064:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 10 12:51:43.476870 2018] [ssl:warn] [pid 17064:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 10 12:51:43.554873 2018] [mpm_winnt:notice] [pid 17064:tid 304] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 10 17:47:49.797825 2018] [mpm_winnt:notice] [pid 17352:tid 292] AH00428: Parent: child process 17064 exited with status 1073807364 -- Restarting.
+[Tue Sep 11 12:44:38.985290 2018] [ssl:warn] [pid 11832:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 11 12:44:39.115303 2018] [core:warn] [pid 11832:tid 292] AH00098: pid file C:/Apps/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 11 12:44:39.119303 2018] [ssl:warn] [pid 11832:tid 292] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 11 12:44:39.264317 2018] [mpm_winnt:notice] [pid 11832:tid 292] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0h PHP/7.2.8 configured -- resuming normal operations
+[Tue Sep 11 12:44:39.264317 2018] [mpm_winnt:notice] [pid 11832:tid 292] AH00456: Apache Lounge VC15 Server built: Jul 11 2018 12:13:24
+[Tue Sep 11 12:44:39.264317 2018] [core:notice] [pid 11832:tid 292] AH00094: Command line: 'c:\\apps\\xampp\\apache\\bin\\httpd.exe -d C:/Apps/xampp/apache'
+[Tue Sep 11 12:44:39.270318 2018] [mpm_winnt:notice] [pid 11832:tid 292] AH00418: Parent: Created child process 5936
+[Tue Sep 11 12:44:40.892999 2018] [ssl:warn] [pid 5936:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 11 12:44:41.012003 2018] [ssl:warn] [pid 5936:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 11 12:44:41.075404 2018] [mpm_winnt:notice] [pid 5936:tid 304] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 11 14:09:59.874226 2018] [php7:crit] [pid 5936:tid 1596] [client ::1:60220] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134
+[Tue Sep 11 14:10:00.488287 2018] [php7:crit] [pid 5936:tid 1608] [client 127.0.0.1:60223] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/wp-cron.php?doing_wp_cron=1536667798.7211110591888427734375
+[Tue Sep 11 14:10:03.648603 2018] [php7:crit] [pid 5936:tid 1596] [client ::1:60220] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/
+[Tue Sep 11 14:10:19.971235 2018] [php7:crit] [pid 5936:tid 1604] [client ::1:60258] PHP Parse error:  syntax error, unexpected 'esc_html' (T_STRING), expecting ',' or ';' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134
+[Tue Sep 11 14:10:23.016540 2018] [php7:crit] [pid 5936:tid 1604] [client ::1:60258] PHP Parse error:  syntax error, unexpected 'esc_html' (T_STRING), expecting ',' or ';' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/
+[Tue Sep 11 14:12:38.661351 2018] [php7:crit] [pid 5936:tid 1596] [client ::1:60363] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134
+[Tue Sep 11 14:12:39.307416 2018] [php7:crit] [pid 5936:tid 1608] [client 127.0.0.1:60368] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/wp-cron.php?doing_wp_cron=1536667957.5202369689941406250000
+[Tue Sep 11 14:12:42.672752 2018] [php7:crit] [pid 5936:tid 1596] [client ::1:60363] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/
+[Tue Sep 11 14:14:04.006592 2018] [php7:crit] [pid 5936:tid 1596] [client ::1:60377] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134
+[Tue Sep 11 14:14:05.104702 2018] [php7:crit] [pid 5936:tid 1608] [client 127.0.0.1:60380] PHP Parse error:  syntax error, unexpected '.' in C:\\Apps\\xampp\\htdocs\\wp-content\\themes\\shopkeeper\\header-default.php on line 134, referer: http://localhost/wp-cron.php?doing_wp_cron=1536668042.8424758911132812500000
+[Fri Sep 14 17:11:27.939775 2018] [mpm_winnt:notice] [pid 11832:tid 292] AH00428: Parent: child process 5936 exited with status 1073807364 -- Restarting.

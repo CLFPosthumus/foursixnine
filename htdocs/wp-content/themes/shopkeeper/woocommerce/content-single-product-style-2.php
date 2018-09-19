@@ -225,4 +225,15 @@
 .product_layout_3 .product:not(.product-type-grouped) .product_content_wrapper .product_infos form.cart .quantity.custom~.button {
 	padding: 19px 14px 16px 24px;
 }}
+
+
+#product {
+    border-right: 1px solid #bbb;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgb(187, 187, 187);
+    border-bottom: 1px solid #bbb;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(187, 187, 187);}
 </style>

@@ -128,12 +128,10 @@
                                     <img src="<?php echo esc_url($shopkeeper_theme_options['main_header_shopping_bag_icon']); ?>">
                                     <?php else : ?>
                                     CART
-                                    <!-- <i class="spk-icon spk-icon-cart-shopkeeper"></i> -->
-                                    <!-- <i id='shopkeeper-menu-item-2976' class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2852 current_page_item">CART</i> -->
-									<?php endif; ?>
+                              	<?php endif; ?>
                                 </span>
-                              
-                                <span class="shopping_bag_items_number"><?php echo esc_html(WC()->cart->get_cart_contents_count()); ?> </span>
+                                <span class="shopping_bag_items_number"><?php echo  esc_html(WC()->cart->get_cart_contents_count());?></span>  
+                            
                             </a>
                         </li>
                         <?php endif; ?>
@@ -172,7 +170,7 @@
                     <!-- </div> -->
                 </div>
                 
-                <nav class="show-for-large main-navigation default-navigation <?php if ( (isset($header_alignment)) ) echo esc_html($header_alignment); ?>" role="navigation">                    
+                <nav class="show-for-large main-navigation default-navigation <?php if ( (isset($header_alignment)) ) echo "align_center"; ?>" role="navigation">                    
                     <?php 
                         $walker = new rc_scm_walker;
 						wp_nav_menu(array(
